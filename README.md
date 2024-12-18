@@ -1,1 +1,5 @@
-[add description here]
+Survivor is a competitive reality show where a group of contestants are stranded in a remote location and compete in various challenges. After each immunity challenge, contestants attend Tribal Council, where one player is voted out. Midway in the game, eliminated contestants form the jury, who ultimately vote to decide the winner and crown the Sole Survivor. 
+
+Known for its intricate blend of social maneuvering and strategic gameplay, contestants must find learn how to outwit, outplay, and outlast their opponents to win the $1 million prize. Survivor explores how individuals navigate complex social dynamics, form alliances, betray trust, take risks, and adapt emotionally — all while relying on strangers in a high-stakes environment. A contestant's lived experiences and personal attributes, such as their background, personality, and life skills, play a significant role in shaping their approach to the game.
+
+The goal of this data project is to determine whether it’s possible to predict the winner of Survivor based on individual attributes, such as gender, race, occupation, and age. With the season finale airing on December 18, 2024, this project will test the model’s performance in forecasting the ultimate Sole Survivor.
